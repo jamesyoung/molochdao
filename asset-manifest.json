@@ -1,0 +1,19 @@
+{
+  "main.css": "/moloch-monorepo/static/css/main.4a018953.chunk.css",
+  "main.js": "/moloch-monorepo/static/js/main.194a7872.chunk.js",
+  "main.js.map": "/moloch-monorepo/static/js/main.194a7872.chunk.js.map",
+  "runtime~main.js": "/moloch-monorepo/static/js/runtime~main.7a1e1a38.js",
+  "runtime~main.js.map": "/moloch-monorepo/static/js/runtime~main.7a1e1a38.js.map",
+  "static/css/2.23b2fd90.chunk.css": "/moloch-monorepo/static/css/2.23b2fd90.chunk.css",
+  "static/js/2.7382242d.chunk.js": "/moloch-monorepo/static/js/2.7382242d.chunk.js",
+  "static/js/2.7382242d.chunk.js.map": "/moloch-monorepo/static/js/2.7382242d.chunk.js.map",
+  "index.html": "/moloch-monorepo/index.html",
+  "precache-manifest.d6b5b53cc95b728f9d80c3203c3f3b7f.js": "/moloch-monorepo/precache-manifest.d6b5b53cc95b728f9d80c3203c3f3b7f.js",
+  "service-worker.js": "/moloch-monorepo/service-worker.js",
+  "static/css/2.23b2fd90.chunk.css.map": "/moloch-monorepo/static/css/2.23b2fd90.chunk.css.map",
+  "static/css/main.4a018953.chunk.css.map": "/moloch-monorepo/static/css/main.4a018953.chunk.css.map",
+  "static/media/semantic.min.css": "/moloch-monorepo/static/media/outline-icons.ef60a4f6.woff",
+  "static/media/bull.png": "/moloch-monorepo/static/media/bull.204229a6.png",
+  "static/media/hood.png": "/moloch-monorepo/static/media/hood.ba69d28c.png",
+  "static/media/index.scss": "/moloch-monorepo/static/media/moloch_owl.d5fb9e9e.jpg"
+}
